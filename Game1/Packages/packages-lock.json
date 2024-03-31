@@ -98,7 +98,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.multiplayer.samples.coop": {
-      "version": "file:C:/Users/eemel/OneDrive/Työpöytä/com.unity.multiplayer.samples.coop-main/Packages/com.unity.multiplayer.samples.coop",
+      "version": "file:../Packages",
       "depth": 0,
       "source": "local",
       "dependencies": {
